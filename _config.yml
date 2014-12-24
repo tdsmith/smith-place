@@ -5,8 +5,6 @@ description: > # this means to ignore newlines until "baseurl:"
   The Internet home of the Smith family. (One of them, anyway.)
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://smith.place" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 # markdown: kramdown
