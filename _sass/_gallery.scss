@@ -1,0 +1,13 @@
+#rotating-item-wrapper {
+    position: relative;
+    float: left;
+    width: 700px;
+    height: 500px;
+}
+
+.rotating-item {
+    display: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
